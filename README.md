@@ -12,3 +12,5 @@ to analize a book
 
 # Run the webapp
 In the terminal write streamlit run namefile.py
+
+# Link to try the app

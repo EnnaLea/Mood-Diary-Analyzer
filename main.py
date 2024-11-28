@@ -8,7 +8,7 @@ import plotly.express as px
 
 st.title("Diary Tone")
 
-# leggere una serie di file dalla cartella
+# leggere una serie di file dalla cartella in una list
 filepaths = sorted(glob.glob("notes/*.txt"))
 
 # individuare il mood di ciascun file e raggruppare i mood in positivi e negativi
